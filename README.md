@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png)
+![alt text](https://raw.githubusercontent.com/Dawnywong96/Dawn_W/main/Dawn%20Professional%20Pic%20SS.png?s=200)
 
 <!-- Add your details -->
 
